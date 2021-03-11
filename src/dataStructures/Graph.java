@@ -13,6 +13,7 @@ public class Graph {
 		{
 			adj[i]=new ArrayList<>();
 		}
+		System.out.println("Graph Created");
 	}
 
 }
